@@ -33,11 +33,14 @@ Ask me about my work or anything else:
 * [create an issue here](https://github.com/kswedberg/kswedberg/issues/new)
 * [send an email via my contact form](https://karlswedberg.com/contact).
 
-<!--
-## My GitHub stats
+<details>
+  <summary>My GitHub stats</summary>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kswedberg&hide=issues&show_icons=true&hide_title=true)
 
+  
+</details>
+<!--
 
 Get icons from https://simpleicons.org/
 

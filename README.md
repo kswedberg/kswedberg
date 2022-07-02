@@ -20,9 +20,11 @@ Hey Hey Welcome! 👋
 [![rollup.js](https://img.shields.io/badge/-rollup.js-EC4A3F?logoColor=%23ffffff&logo=rollup.js&style=flat-square)](https://rollupjs.org/guide/en/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logoColor=%23000000&logo=Webpack&style=flat-square)](https://webpack.js.org/)
 * 👯 And more:
-[![Cypress](https://img.shields.io/badge/-Cypress-17202C?logoColor=%23ffffff&logo=Cypress&style=flat-square)](https://www.cypress.io/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logoColor=%23ffffff&logo=MongoDB&style=flat-square)](https://www.mongodb.com/)
 [![NGINX](https://img.shields.io/badge/-NGINX-269539?logoColor=%23ffffff&logo=NGINX&style=flat-square)](https://www.nginx.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL&logoColor=%23ffffff&color=%234169E1&style=flat-square)](https://www.posgtresql.org/)
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?logoColor=%23ffffff&logo=Cypress&style=flat-square)](https://www.cypress.io/)
+[![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logoColor=%23ffffff&logo=Playwright&style=flat-square)](https://playwright.dev/)
+
 
 ## Contact me
 

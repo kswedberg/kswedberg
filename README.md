@@ -10,7 +10,7 @@ Hey Hey Welcome! 👋
 
 * 🤖 JS on the server:
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?logoColor=%23ffffff&style=flat-square&logo=Node.js)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?logoColor=%23ffffff&style=flat-square)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=Express&logoColor=%23ffffff&style=flat-square)](https://expressjs.com/)
 * 🌐 JS everywhere:
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logoColor=%23ffffff&style=flat-square&logo=Vue.js)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logoColor=%23ffffff&style=flat-square&logo=Nuxt.js)](https://nuxtjs.org/)

@@ -24,7 +24,7 @@ Hey Hey Welcome! 👋
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL&logoColor=%23ffffff&color=%234169E1&style=flat-square)](https://www.posgtresql.org/)
 [![Cypress](https://img.shields.io/badge/-Cypress-17202C?logoColor=%23ffffff&logo=Cypress&style=flat-square)](https://www.cypress.io/)
 [![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logoColor=%23ffffff&logo=Playwright&style=flat-square)](https://playwright.dev/)
-
+* <a rel="me" href="https://mastodon.social/@kswedberg">@kswedberg on Mastodon</a>
 
 ## Contact me
 

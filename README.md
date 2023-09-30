@@ -14,7 +14,6 @@ Hey Hey Welcome! 👋
 * 🌐 JS everywhere:
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logoColor=%23ffffff&style=flat-square&logo=Vue.js)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logoColor=%23ffffff&style=flat-square&logo=Nuxt.js)](https://nuxtjs.org/)
-[![Babel](https://img.shields.io/badge/-Babel-F9DC3E?labelColor=%23F9DC3E&logoColor=000000&color=000000&style=flat-square&logo=Babel)](https://babeljs.io/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logoColor=%23ffffff&style=flat-square&logo=ESLint)](https://eslint.org/)
 * 📦 Bundlers:
 [![rollup.js](https://img.shields.io/badge/-rollup.js-EC4A3F?logoColor=%23ffffff&logo=rollup.js&style=flat-square)](https://rollupjs.org/guide/en/)

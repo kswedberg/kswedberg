@@ -15,9 +15,6 @@ Hey Hey Welcome! 👋
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logoColor=%23ffffff&style=flat-square&logo=Vue.js)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logoColor=%23ffffff&style=flat-square&logo=Nuxt.js)](https://nuxtjs.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logoColor=%23ffffff&style=flat-square&logo=ESLint)](https://eslint.org/)
-* 📦 Bundlers:
-[![rollup.js](https://img.shields.io/badge/-rollup.js-EC4A3F?logoColor=%23ffffff&logo=rollup.js&style=flat-square)](https://rollupjs.org/guide/en/)
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logoColor=%23000000&logo=Webpack&style=flat-square)](https://webpack.js.org/)
 * 👯 And more:
 [![NGINX](https://img.shields.io/badge/-NGINX-269539?logoColor=%23ffffff&logo=NGINX&style=flat-square)](https://www.nginx.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL&logoColor=%23ffffff&color=%234169E1&style=flat-square)](https://www.posgtresql.org/)
